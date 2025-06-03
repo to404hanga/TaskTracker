@@ -96,7 +96,7 @@ go build -o task-cli.exe
 
 ```bash
 ./task-cli.exe mark-done 1
-``` 
+```
 
 #### Mark Task as In-Progress
 
